@@ -1,0 +1,10 @@
+# User uploads and the database: never publish these
+/storage/*
+!/storage/.htaccess
+!/storage/.gitignore
+
+# OS / editor noise
+.DS_Store
+*.log
+.idea/
+.vscode/
